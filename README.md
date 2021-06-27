@@ -1,3 +1,3 @@
 # React Expense Tracker
 
-An expense tracker web app created by React.js. 
+A web-based expense tracker app created by React.js. 
